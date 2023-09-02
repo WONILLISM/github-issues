@@ -1,6 +1,10 @@
 # GitHub Issues
 
+GitHub Issue 목록 검색 서비스
+
 프리온보딩 인턴십 과제에서 업그레이드 및 NextJS로 마이그레이션
+
+[기존 repository](https://github.com/WONILLISM/pre-onboarding-11th-3)
 
 # 목차
 
